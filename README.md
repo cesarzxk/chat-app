@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77c8a06a-cccf-4292-bd03-494cfc0cbb3a/deploy-status)](https://app.netlify.com/sites/chat-app-cesarzxk/deploys)
+
 ## Available Scripts
 
 In the project directory, you can run:
